@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">E Farmerce</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="layer_names">
+        <item>LEAF AREA INDEX</item>
+        <item>RAINFALL</item>
+        <item>WATER VAPOR</item>
+        <item>LAND SURFACE TEMPERATURE </item>
+        <item>VEGETATION INDEX</item>
+    </string-array>
+    <string name="layer_prompt">Choose a layer</string>
+    <string name="title_activity_gif">GifActivity</string>
+    <string-array name="options">
+        <item>Demo(Rainfall)</item>
+        <item>Humidity</item>
+        <item>Temperature</item>
+        <item>Custom Data</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_ground_data"
+        android:icon="@drawable/icons8earthelement24"
+        android:title="Ground Data" />
+
+    <item
+        android:id="@+id/navigation_satellite"
+        android:icon="@drawable/icons8satellite24"
+        android:title="Satellite" />
+
+    <item
+        android:id="@+id/navigation_analysis"
+        android:icon="@drawable/icons8voice24"
+        android:title="Voice Assistance" />
+
+</menu>
