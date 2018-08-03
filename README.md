@@ -81,13 +81,13 @@ For Conversation AI, the user need to have the Google AIY Developer Kit https://
  
  <a href="https://www.youtube.com/watch?v=NYsjW3Ro17w" target="_blank"> ![demo](https://user-images.githubusercontent.com/30501155/43646572-e26d36a0-9752-11e8-9591-61da00f5df23.PNG)</a>
 
-The voice assistance is able to answer questions related to rainfall, Temperature and weather condition at Theni district for past, present and near future in communicative way. In the Above video we have showcased using the Vpoice assistant the uder can ask the app, the trained questions, like what is the rainfall at a specific station, we have made the Voice assistant respond in 2 different ways 
+The voice assistance is able to answer questions related to rainfall, Temperature and weather condition at Theni district for past, present and near future in communicative way. In the Above video we have showcased using the Voice assistant the user can ask the app, the trained questions, like what is the rainfall at a specific station, we have made the Voice assistant respond in 2 different ways 
 
-Ressponse 1 is through Voice, if the questions are asked to the voice assistant then it responds ion voice in a cimmunicative way
-(In the Pitch Video the user can see the demonstartions of the conversation AI) 
-Response 2 is instructing the app to open those Stations for visualing the results ( In the above video u can see the demo of this application) 
+Ressponse 1 is through Voice, if the questions are asked to the voice assistant then it responds in voice in a communicative way
+(In the Pitch Video you can see the demonstartions of the conversation AI) 
+Response 2 is instructing the app to open those Stations for visualing the results.Basically instructing the app through voice to do some specific tasks ( In the above video u can see the demo of this application) 
 
-Unanswered Questions, for which the Voice kit is not trained for, gets automatically stored to Firebase
+Unanswered Questions, for which the Voice kit is not trained for, gets automatically stored to Firebase database, so that we can finetune to have the better conversation system .
 
 <h2>OUTREACH</h2>
 <p>Our Team Really enjoyed the Field Demonstration</p>
