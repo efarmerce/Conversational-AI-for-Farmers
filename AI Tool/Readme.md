@@ -1,11 +1,11 @@
 Script.py is the AI Tool which predicts the near future time series data. We used RBF model to predict the data. 
 The data we used is available in the Sample Data folder.
 <h1> To Get Started with</h1>
-First you need to install the following dependences
-1 numpy  
-2 sklearn
-3 pandas 
-4 matplotlib 
+<p>First you need to install the following </p>
+<p>1 numpy  </p>
+<p>2 sklearn</p>
+<p>3 pandas </p>
+<p>4 matplotlib </p>
 Convert your data as shown in Sample Data by following the instruction as shown in instruction.txt in Sample Data folder; 
 Else copy all the files in sample data and paste it in AI Tool i.e this folder
 Run this script.py
