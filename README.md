@@ -20,7 +20,7 @@
   <p>5.	The user can look in to relevant satellite imagery like Vegetation Index, Leaf Area Index, Rainfall, and Water vapour & Land surface Temperature to visualize and interpret on top of NASA WorldWind, to know what has happened before in our area of interest.</p>
   <p>6.	For Conversation AI, the user need to have the Google AIY Developer Kit https://aiyprojects.withgoogle.com/</p>
   <p>7.	The voice assistance is able to answer questions related to rainfall, Temperature and weather condition at Theni district for past, present and near future in communicative way </p>
-  <p>8.	Unanswered Questions, for which the Voice kit is not trained for, gets automatically stored to Firebase
+  <p>8.	Unanswered Questions, for which the Voice kit is not trained for, gets automatically stored to Firebase, which can help us build a much more robust conversation AI system for Farmers
 </p>
   
   
