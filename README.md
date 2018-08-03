@@ -47,22 +47,6 @@
 <p>Here we run the quick demonstration on how to run the app</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![1](https://user-images.githubusercontent.com/30501155/43639576-52ee6d72-973a-11e8-9724-be09585246da.png)
 <img src="https://user-images.githubusercontent.com/30501155/43625663-d51303e6-970b-11e8-85ac-406a5b537874.gif" width="40%">
 
@@ -93,6 +77,9 @@ The user can look in to relevant satellite imagery like Vegetation Index, Leaf A
 For Conversation AI, the user need to have the Google AIY Developer Kit https://aiyprojects.withgoogle.com/ withoutwhich the the conversional functionalities will not work.
 
 ![8](https://user-images.githubusercontent.com/30501155/43639584-547c786e-973a-11e8-9b8e-3556b8112681.png)
+
+ 
+ <a href="https://www.youtube.com/watch?v=NYsjW3Ro17w" target="_blank"> ![demo](https://user-images.githubusercontent.com/30501155/43646572-e26d36a0-9752-11e8-9591-61da00f5df23.PNG)</a>
 
 The voice assistance is able to answer questions related to rainfall, Temperature and weather condition at Theni district for past, present and near future in communicative way 
 
