@@ -3,7 +3,7 @@
   <h2>Agriculture Intelligence</h2>
   <h2>Project Name: Conversation AI for Farmers</h2>
   <h2><a href="http://e-farmerce.com">e-farmerce.com</a></h2>
-  <h2><a href="https://play.google.com/store/apps/details?id=e.chandrakumar.myapplication>Click to Launch the Android App</a></h2>
+  <h2><a href="https://play.google.com/store/apps/details?id=e.chandrakumar.myapplication">Click to Launch the Android App</a></h2>
   <h2>Introduction</h2>
   <p>Conversational AI- Teaching Computers to Assist Farmers Why there is a need for conversational (AI) Agriculture Intelligence system using Voice Assistants?</p>
   <p>Farmers and Policy makers in India are desperately looking for smart Agriculture Decision support system to make quick and effective decisions based on #AgData. </p>
