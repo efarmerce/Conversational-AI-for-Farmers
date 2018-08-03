@@ -50,7 +50,7 @@ Agriculture Intelligence
 <p>We’re still in the early days of conversational AI, but this field will evolve quickly</p>
 <p>We are closely working with PTR College of Engineering and Technology to Leverage each other strengths and accelerate the Farmer Outreach, More Field Testing can help us build a better Conversational AI system for farmers</p>
 <h2>OUR JOURNEY</h2>
-<p>e-farmerce Platform is competing in this year's UN and ESA led World Challenge in Finland!
-e-farmerce Platform AI (Agriculture Intelligence) system is still in development and we hope to make a positive impact on Agriculture which is mired in crisis.
-We are constantly finding new ways to increase the accuracy of our predictions and build better conversational AI system for farmers and improve the way we visualize the data using NASA WorldWind.</p>
+<p>e-farmerce Platform is competing in this year's UN and ESA led World Challenge in Finland!</p>
+<p>e-farmerce Platform AI (Agriculture Intelligence) system is still in development and we hope to make a positive impact on Agriculture which is mired in crisis.</p>
+<p>We are constantly finding new ways to increase the accuracy of our predictions and build better conversational AI system for farmers and improve the way we visualize the data using NASA WorldWind.</p>
 
