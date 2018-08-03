@@ -5,7 +5,6 @@
   
   <a href="https://www.youtube.com/watch?v=P3kgYn_XqCw" target="_blank">![nasa](https://user-images.githubusercontent.com/30501155/43628161-ca9fe0c2-9716-11e8-9ebf-9fe6958463eb.PNG)</a>
 
-<iframe width="1300" height="600" src="https://www.youtube.com/embed/P3kgYn_XqCw"></iframe>
 
 #Goal of this project is to put conversation AI in to the hands of the farmers and Policy makers, in the proposed prototype, we have showcased how a conversation system between Farmers and the voice Assistant within the ecosystem of NASA WorldWind can help analyze, visualize, interpret and communicate the critical data points related to Agriculture.
 
@@ -26,17 +25,18 @@ Agriculture Intelligence
 <img src="https://user-images.githubusercontent.com/30501155/43625688-f31fd3b4-970b-11e8-8992-c11b60107fbf.png" width="40%">
 <img src="https://user-images.githubusercontent.com/30501155/43625699-0044be6a-970c-11e8-9d43-ad683481367a.png" width="40%">
 
+<img src="https://user-images.githubusercontent.com/30501155/43625728-25bd18ea-970c-11e8-82e2-1c6274bac946.png" width="40%">
+<img src="https://user-images.githubusercontent.com/30501155/43625736-2e1ef4b8-970c-11e8-864b-451f86fb2ac4.png" width="40%">
+<img src="https://user-images.githubusercontent.com/30501155/43625743-3b54be10-970c-11e8-859e-e9cb43a78718.png" width="40%">
+<img src="https://user-images.githubusercontent.com/30501155/43625757-480a0156-970c-11e8-8ed9-1098bd34efca.png" width="40%">
+
+
 <h2>OUTREACH</h2>
 <p>Our Team Really enjoyed the Field Demonstration</p>
 <p>Here are some Takeaways</p>
 <p>The Main challenge is, conversational Voice Assistant supports only English, so it’s tough from our side to explain the Farmers to ask questions in English. Then it is a hard time for the Voice Assistant to understand the Farmers Slang of English!!! The Voice Assistant too performed well in understanding most of the Farmers and give the required results in a conversational way.</p>
 <p>But</p>
 <p>There was so much of Curiosity from the Farmers side to Know about the Voice Assistant, How it works, and engage or communicate with the Voice Assistant</p>
-
-<img src="https://user-images.githubusercontent.com/30501155/43625728-25bd18ea-970c-11e8-82e2-1c6274bac946.png" width="40%">
-<img src="https://user-images.githubusercontent.com/30501155/43625736-2e1ef4b8-970c-11e8-864b-451f86fb2ac4.png" width="40%">
-<img src="https://user-images.githubusercontent.com/30501155/43625743-3b54be10-970c-11e8-859e-e9cb43a78718.png" width="40%">
-<img src="https://user-images.githubusercontent.com/30501155/43625757-480a0156-970c-11e8-8ed9-1098bd34efca.png" width="40%">
 
 
 ![16](https://user-images.githubusercontent.com/30501155/43625771-5b6820e8-970c-11e8-97ae-606035a50ef7.jpg)
@@ -45,4 +45,12 @@ Agriculture Intelligence
 ![19](https://user-images.githubusercontent.com/30501155/43625803-871481d2-970c-11e8-8bd4-cf1d6545b000.jpg)
 ![20](https://user-images.githubusercontent.com/30501155/43625804-874ea3f8-970c-11e8-8e19-6a4938987706.jpg)
 ![21](https://user-images.githubusercontent.com/30501155/43625805-87848400-970c-11e8-94cf-7939c46bce4e.jpg)
+
+<h2>WHATS NEXT?</h2>
+<p>We’re still in the early days of conversational AI, but this field will evolve quickly</p>
+<p>We are closely working with PTR College of Engineering and Technology to Leverage each other strengths and accelerate the Farmer Outreach, More Field Testing can help us build a better Conversational AI system for farmers</p>
+<h2>OUR JOURNEY</h2>
+<p>e-farmerce Platform is competing in this year's UN and ESA led World Challenge in Finland!
+e-farmerce Platform AI (Agriculture Intelligence) system is still in development and we hope to make a positive impact on Agriculture which is mired in crisis.
+We are constantly finding new ways to increase the accuracy of our predictions and build better conversational AI system for farmers and improve the way we visualize the data using NASA WorldWind.</p>
 
