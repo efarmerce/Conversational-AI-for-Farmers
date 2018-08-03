@@ -5,7 +5,8 @@
   <h2><a href="http://e-farmerce.com">e-farmerce.com</a></h2>
   <h2><a href="https://play.google.com/store/apps/details?id=e.chandrakumar.myapplication">Click to Launch the Android App</a></h2>
   <h2>Introduction</h2>
-  <p>Conversational AI- Teaching Computers to Assist Farmers Why there is a need for conversational (AI) Agriculture Intelligence system using Voice Assistants?</p>
+  <p>Conversational AI- Teaching Computers to Assist Farmers. 
+  Why there is a need for conversational (AI) Agriculture Intelligence system using Voice Assistants?</p>
   <p>Farmers and Policy makers in India are desperately looking for smart Agriculture Decision support system to make quick and effective decisions based on #AgData. </p>
   <p>Voice Assistant alongside NASA WorldWind Framework, can help amplify and accelerate AgData usage through Machine Learning and have the potential to bring monumental changes in Indian Agriculture space by engaging with farmers in an interactive & conversational way.</p>
  <p>We strongly believe digital agriculture, where technologies such as Artificial Intelligence (AI), Machine Learning, Satellite Imagery and advanced analytics can empower and benefit small-holder farmers and decision makers in agrarian economy like INDIA.</p>
