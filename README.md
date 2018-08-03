@@ -13,6 +13,7 @@ Agriculture Intelligence
 
 ![1](https://user-images.githubusercontent.com/30501155/43625638-bd7d4ad4-970b-11e8-8368-8e73f49c1126.png)
 ![2](https://user-images.githubusercontent.com/30501155/43625640-c183ff06-970b-11e8-8381-71bc156fa2a7.JPG)
+![slide_0](https://user-images.githubusercontent.com/30501155/43629621-6ad084d0-971b-11e8-9579-18747e5f1edb.jpg)
 
 <img src="https://user-images.githubusercontent.com/30501155/43625646-c5435614-970b-11e8-9977-5fb950adabc3.png" width="40%">
 <img src="https://user-images.githubusercontent.com/30501155/43625654-cc4ad216-970b-11e8-8a9a-8b2e370ff153.png" width="40%">
