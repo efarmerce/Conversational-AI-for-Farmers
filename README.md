@@ -1,4 +1,9 @@
-
+$ cat custom.css
+td, th {
+    border: 0px
+}
+  
+  
   <h1>e-farmerce Platform</h1>
   <h2>Agriculture Intelligence</h2>
   <h2>Project Name: Conversation AI for Farmers</h2>
