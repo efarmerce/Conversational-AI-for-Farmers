@@ -28,6 +28,13 @@ Agriculture Intelligence
 <img src="https://user-images.githubusercontent.com/30501155/43625688-f31fd3b4-970b-11e8-8992-c11b60107fbf.png" width="40%">
 <img src="https://user-images.githubusercontent.com/30501155/43625699-0044be6a-970c-11e8-9d43-ad683481367a.png" width="40%">
 
+<h2>OUTREACH</h2>
+<p>Our Team Really enjoyed the Field Demonstration</p>
+<p>Here are some Takeaways</p>
+<p>The Main challenge is, conversational Voice Assistant supports only English, so it’s tough from our side to explain the Farmers to ask questions in English. Then it is a hard time for the Voice Assistant to understand the Farmers Slang of English!!! The Voice Assistant too performed well in understanding most of the Farmers and give the required results in a conversational way.</p>
+<p>But</p>
+<p>There was so much of Curiosity from the Farmers side to Know about the Voice Assistant, How it works, and engage or communicate with the Voice Assistant</p>
+
 <img src="https://user-images.githubusercontent.com/30501155/43625728-25bd18ea-970c-11e8-82e2-1c6274bac946.png" width="40%">
 <img src="https://user-images.githubusercontent.com/30501155/43625736-2e1ef4b8-970c-11e8-864b-451f86fb2ac4.png" width="40%">
 <img src="https://user-images.githubusercontent.com/30501155/43625743-3b54be10-970c-11e8-859e-e9cb43a78718.png" width="40%">
