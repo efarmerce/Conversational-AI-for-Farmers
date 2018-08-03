@@ -6,8 +6,8 @@ e-farmerce Platform
 
 #Goal of this project is to put conversation AI in to the hands of the farmers and Policy makers, in the proposed prototype, we have showcased how a conversation system between Farmers and the voice Assistant within the ecosystem of NASA WorldWind can help analyze, visualize, interpret and communicate the critical data points related to Agriculture.
 
-
-
+e-farmerce Platform
+Agriculture Intelligence 
 ![1](https://user-images.githubusercontent.com/30501155/43625638-bd7d4ad4-970b-11e8-8368-8e73f49c1126.png)
 ![2](https://user-images.githubusercontent.com/30501155/43625640-c183ff06-970b-11e8-8381-71bc156fa2a7.JPG)
 ![3](https://user-images.githubusercontent.com/30501155/43625646-c5435614-970b-11e8-9977-5fb950adabc3.png)
