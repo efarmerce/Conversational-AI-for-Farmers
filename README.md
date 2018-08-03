@@ -15,7 +15,7 @@ Agriculture Intelligence
 ![2](https://user-images.githubusercontent.com/30501155/43625640-c183ff06-970b-11e8-8381-71bc156fa2a7.JPG)
 ![slide_0](https://user-images.githubusercontent.com/30501155/43629621-6ad084d0-971b-11e8-9579-18747e5f1edb.jpg)
 
-<table>
+<table border="0">
  <tr>
    <td>
       <img src="https://user-images.githubusercontent.com/30501155/43625646-c5435614-970b-11e8-9977-5fb950adabc3.png" width="40%">
