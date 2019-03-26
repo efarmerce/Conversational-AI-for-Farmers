@@ -116,4 +116,3 @@ Unanswered Questions, for which the Voice kit is not trained for, gets automatic
 <p>e-farmerce Platform AI (Agriculture Intelligence) system is still in development and we hope to make a positive impact on Agriculture which is mired in crisis.</p>
 <p>We are constantly finding new ways to increase the accuracy of our predictions and build better conversational AI system for farmers and improve the way we visualize the data using NASA WorldWind.</p>
 
-Co-authored-by: dreamer chandra <chandru.ck58@gmail.com>
